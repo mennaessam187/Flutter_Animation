@@ -40,7 +40,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Animation Course")),
+      appBar: AppBar(title: Text("Animation Course second commit")),
       body: Center(
         child: Column(
           children: [
